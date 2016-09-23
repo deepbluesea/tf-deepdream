@@ -63,3 +63,6 @@ target/
 
 # temp files
 *~
+
+# big fat mat files
+*.mat
